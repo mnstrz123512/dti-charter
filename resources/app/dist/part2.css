@@ -1,0 +1,1269 @@
+* {
+	margin: 0;
+	padding: 0;
+  box-sizing:content-box;
+}
+body{
+  animation: transitionIn 1s;
+}
+@keyframes transitionIn{
+from{
+  opacity: 0;
+  transform: rotateX(-5deg);
+}
+to{
+  opacity: 1;
+  transform: rotateX(0);
+}
+}
+.frame-consumer-complaints-handling134-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .frame-consumer-complaints-handling134-frame-consumer-complaints-handling134 span{
+    font-family: sans-serif;
+  }
+  .frame-consumer-complaints-handling134-frame-consumer-complaints-handling134 {
+    width: 100%;
+    height: 2685px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+    left:79px;
+  }
+  .frame-consumer-complaints-handling134-group127 {
+    top: 245px;
+    left: 179px;
+    width: 1057px;
+    height: 205px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-consumer-complaints-handling134-text {
+    color: rgba(0, 0, 0, 1);
+    width: 1040px;
+    left: -30px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-group129 {
+    top: 488px;
+    left: 0px;
+    width: 1366px;
+    height: 285px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-consumer-complaints-handling134-rectangle25 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 285px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-text007 {
+    top: 35px;
+    left: 20px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text012 {
+    top: 100px;
+    left: 20px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text014 {
+    top: 160px;
+    left: 20px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text016 {
+    top: 235px;
+    left: 20px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-line1-1 {
+    top: 142px;
+    left: 145px;
+    width: 285px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-consumer-complaints-handling134-line1 {
+    top: 80px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-line2 {
+    top: 145px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-line3 {
+    top: 215px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-text018 {
+    top: 40px;
+    left: 330px;
+    color: rgba(255, 255, 255, 1);
+    width: 745px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text023 {
+    top: 100px;
+    left: 315px;
+    color: rgba(255, 255, 255, 1);
+    width: 100px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text025 {
+    top: 165px;
+    left: 300px;
+    color: rgba(255, 255, 255, 1);
+    width: 288px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text027 {
+    top: 240px;
+    left: 285px;
+    color: rgba(255, 255, 255, 1);
+    width: 288px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-group131 {
+    top: 828px;
+    left: 60px;
+    width: 1245px;
+    height: 463px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-issuanceof-bmbe90-checklistbox{
+    top: 820px;
+    left: 0px;
+    width: auto;
+    height: auto;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-group130 {
+    top: 0px;
+    left: 93px;
+    width: 981px;
+    height: 29px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-consumer-complaints-handling134-text029 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Extra Bold;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text031 {
+    left: 770px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    width: 245px;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text033 {
+    top: 93px;
+    left: 93px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text035 {
+    top: 236px;
+    left: 93px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text037 {
+    top: 89px;
+    left: 849px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-linevall{
+    top: 248px;
+    left: 450px;
+    width: 428px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-consumer-complaints-handling134-linevall-1{
+    top: 248px;
+    left: -273px;
+    width: 428px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-consumer-complaints-handling134-linevall-2{
+    top: 248px;
+    left: 1091px;
+    width: 428px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-consumer-complaints-handling134-line15 {
+    top: 165px;
+    left: -60px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-line16 {
+    top: 313px;
+    left: -60px;
+    width:  1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-line17 {
+    top: 463px;
+    left: -60px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-text039 {
+    top: 240px;
+    left: 932px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text041 {
+    top: 377px;
+    left: 932px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text043 {
+    top: 384px;
+    left: 90px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-group132 {
+    top: 1340px;
+    left: -2px;
+    width: 1368px;
+    height: 875px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-consumer-complaints-handling134-line22 {
+    top: 255px;
+    left: 2px;
+    width: 1366px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-rectangle27 {
+    top: 690px;
+    left: 0px;
+    width: 1368px;
+    height: 83px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-group50 {
+    top: 0px;
+    left: 2px;
+    width: 1366px;
+    height: 83px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-consumer-complaints-handling134-rectangle26 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-text045 {
+    top: 20px;
+    left: 595px;
+    width: 150px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text047 {
+    top: 30px;
+    left: 50px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text049 {
+    top: 20px;
+    left: 1115px;
+    width: 150px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text051 {
+    top: 20px;
+    left: 830px;
+    width: 150px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text053 {
+    top: 30px;
+    left: 300px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-lineh1 {
+    top: 340px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-lineh2 {
+    top: 500px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-linevall-3 {
+    top: 386px;
+    left: -302px;
+    width: 609px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-consumer-complaints-handling134-linevall-4 {
+    top: 386px;
+    left: 1062px;
+    width: 609px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-consumer-complaints-handling134-line18 {
+    top: 386px;
+    left: -40px;
+    width: 609px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-consumer-complaints-handling134-line19 {
+    top: 386px;
+    left: 265px;
+    width: 609px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-consumer-complaints-handling134-line20 {
+    top: 386px;
+    left: 485px;
+    width: 609px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-consumer-complaints-handling134-line21 {
+    top: 386px;
+    left: 740px;
+    width: 609px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-consumer-complaints-handling134-text055 {
+    top: 85px;
+    left: 4px;
+    color: rgba(0, 0, 0, 1);
+    width: 219px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.2em;
+  }
+  .frame-consumer-complaints-handling134-text060 {
+    top: 169px;
+    left: 35px;
+    color: rgba(38, 61, 129, 1);
+    width: 243px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text062 {
+    top: 85px;
+    left: 294px;
+    color: rgba(0, 0, 0, 1);
+    width: 228px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-consumer-complaints-handling134-text063 {
+    top: 130px;
+    left: 294px;
+    color: rgba(0, 0, 0, 1);
+    width: 228px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-consumer-complaints-handling134-text063-1 {
+    top: 225px;
+    left: 294px;
+    color: rgba(0, 0, 0, 1);
+    width: 228px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-consumer-complaints-handling134-text064 {
+    top: 120px;
+    left: 650px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text065 {
+    top: 200px;
+    left: 650px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text065-1 {
+    top: 280px;
+    left: 650px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text066 {
+    top: 410px;
+    left: 650px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text067 {
+    top: 580px;
+    left: 650px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text068 {
+    top: 120px;
+    left: 819px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text069 {
+    top: 200px;
+    left: 819px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text069-1 {
+    top: 280px;
+    left: 819px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text070 {
+    top: 120px;
+    left: 1087px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text071 {
+    top: 200px;
+    left: 1110px;
+    width: 155px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text071-1 {
+    top: 270px;
+    left: 1110px;
+    width: 155px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text072 {
+    top: 320px;
+    left: 15px;
+    color: rgba(0, 0, 0, 1);
+    width: 180px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.5em;
+  }
+  .frame-consumer-complaints-handling134-text073 {
+    top: 480px;
+    left: 15px;
+    color: rgba(0, 0, 0, 1);
+    width: 180px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.5em;
+  }
+  .frame-consumer-complaints-handling134-text074 {
+    top: 480px;
+    left: 295px;
+    color: rgba(0, 0, 0, 1);
+    width: 215px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-consumer-complaints-handling134-text077 {
+    top: 320px;
+    left: 295px;
+    color: rgba(0, 0, 0, 1);
+    width: 200px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-consumer-complaints-handling134-text079 {
+    top: 410px;
+    left: 817px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text080 {
+    top: 580px;
+    left: 817px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text081 {
+    top: 410px;
+    left: 1108px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text082 {
+    top: 580px;
+    left: 1108px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text083 {
+    top: 720px;
+    left: 52px;
+    color: rgb(255, 255, 255, 1);
+    width: 275px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text085 {
+    top: 715px;
+    left: 670px;
+    color: rgb(255, 255, 255, 1);
+    width: 655px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-group126 {
+    top: 116px;
+    left: 150px;
+    width: 1153px;
+    height: 70px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-consumer-complaints-handling134-text087 {
+    top: 20px;
+    left: 73px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Extra Bold;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text087-1 {
+    top: 55px;
+    left: 73px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-rectangle23 {
+    top: 40px;
+    left: 600px;
+    width: 440px;
+    height: 3px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-supply-chain {
+    top: 0px;
+    left: 0px;
+    width: 58px;
+    height: 70px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-footer {
+    top: 2150px;
+    left: 0px;
+    width: 1366px;
+    height: 536px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-consumer-complaints-handling134-screenshot1removebgpreview1 {
+    top: 89px;
+    left: 352px;
+    width: 716px;
+    height: 270px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-rectangle8 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 536px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-ellipse11 {
+    top: 294px;
+    left: 1049px;
+    width: 317px;
+    height: 242px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-text089 {
+    top: 148px;
+    left: 123px;
+    color: rgba(27, 21, 21, 1);
+    width: 282px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Extra Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text090 {
+    font-weight: 700;
+  }
+  .frame-consumer-complaints-handling134-text098 {
+    top: 270px;
+    left: 126px;
+    color: rgba(29, 23, 23, 1);
+    width: 246px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text099 {
+    font-weight: 700;
+  }
+  .frame-consumer-complaints-handling134-text109 {
+    top: 285px;
+    left: 1047px;
+    color: rgba(29, 23, 23, 1);
+    width: 190px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text110 {
+    font-weight: 700;
+  }
+  .frame-consumer-complaints-handling134-text111 {
+    font-weight: 700;
+  }
+  .frame-consumer-complaints-handling134-text115 {
+    font-weight: 700;
+  }
+  .frame-consumer-complaints-handling134-text116 {
+    font-weight: 700;
+  }
+  .frame-consumer-complaints-handling134-text120 {
+    font-weight: 700;
+  }
+  .frame-consumer-complaints-handling134-text121 {
+    text-decoration: NONE;
+  }
+  .frame-consumer-complaints-handling134-text123 {
+    top: 148px;
+    left: 1047px;
+    color: rgba(23, 19, 19, 1);
+    width: 235px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-text124 {
+    font-weight: 700;
+  }
+  .frame-consumer-complaints-handling134-header {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 95px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-consumer-complaints-handling134-group149 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 95px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 61, 129, 1);
+  }
+  .frame-consumer-complaints-handling134-rectangle {
+    top: 0px;
+    width: 1363px;
+    height: 95px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-logo {
+    top: 0px;
+    left: 1035px;
+    width: 291px;
+    height: 95px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-group52button {
+    top: 9px;
+    left: 368.1913757324219px;
+    width: 181.60116577148438px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 61, 129, 0.10000000149011612);
+  }
+  .frame-consumer-complaints-handling134-rectangle36 {
+    top: 0px;
+    left: 4.989017486572266px;
+    width: 177px;
+    height: 78px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-text134 {
+    top: 21px;
+    left: 85.81151580810547px;
+    color: rgba(255, 255, 255, 1);
+    width: 86px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-home-page {
+    top: 0px;
+    left: 0px;
+    width: 82px;
+    height: 75px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-group521button {
+    top: 8px;
+    left: 816.2074584960938px;
+    width: 181.60116577148438px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 61, 129, 0.10000000149011612);
+  }
+  .frame-consumer-complaints-handling134-text136 {
+    top: 21px;
+    left: 85.81147003173828px;
+    color: rgba(255, 255, 255, 1);
+    width: 86px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-rectangle361 {
+    top: 0px;
+    left: 4.988974094390869px;
+    width: 177px;
+    height: 78px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-inquiry {
+    top: 0px;
+    left: 0px;
+    width: 82px;
+    height: 75px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-group522button {
+    top: 9px;
+    left: 572.7421264648438px;
+    width: 228.25787353515625px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 61, 129, 0.10000000149011612);
+  }
+  .frame-consumer-complaints-handling134-text138 {
+    top: 21px;
+    left: 85.8115005493164px;
+    color: rgba(255, 255, 255, 1);
+    width: 135px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-consumer-complaints-handling134-rectangle362 {
+    top: 0px;
+    left: 5.25787353515625px;
+    width: 223px;
+    height: 78px;
+    position: absolute;
+  }
+  .frame-consumer-complaints-handling134-service {
+    top: 0px;
+    left: 0px;
+    width: 82px;
+    height: 75px;
+    position: absolute;
+  }
+  
+  .frame-consumer-complaints-handling134-group52button:hover{
+    background-color: transparent;
+    transform: translateY(-3px);
+    transition: all .3s;
+  }
+  .frame-consumer-complaints-handling134-group521button:hover{
+    background-color: transparent;
+    transform: translateY(-3px);
+    transition: all .3s;
+  }
+  .frame-consumer-complaints-handling134-group522button:hover{
+    background-color: transparent;
+    transform: translateY(-3px);
+    transition: all .3s;
+  }
+  @media screen and (max-width: 1366px) {
+    .frame-consumer-complaints-handling134-frame-consumer-complaints-handling134 {
+    left: 0px;
+    }
+
+  }

@@ -1,0 +1,3527 @@
+* {
+	margin: 0;
+	padding: 0;
+  box-sizing:content-box;
+}
+body{
+  animation: transitionIn 1s;
+}
+@keyframes transitionIn{
+from{
+  opacity: 0;
+  transform: rotateX(-5deg);
+}
+to{
+  opacity: 1;
+  transform: rotateX(0);
+}
+}
+
+.frame-certificateof-accreditation43-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .frame-certificateof-accreditation43-container span{
+    font-family: sans-serif;
+  }
+  .frame-certificateof-accreditation43-frame-certificateof-accreditation43 {
+    width: 100%;
+    height: 6670px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+    left:79px;
+  }
+  .frame-certificateof-accreditation43-group82 {
+    top: 260px;
+    left: 135px;
+    width: 1098px;
+    height: 270px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-text {
+    color: rgb(0, 0, 0);
+    width: 1160px;
+    left: -25px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Regular;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-group83 {
+    top: 573px;
+    left: 0px;
+    width: 1366px;
+    height: 285px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-rectangle25 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 285px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-text005 {
+    top: 115px;
+    left: 285px;
+    color: rgba(255, 255, 255, 1);
+    width: 106px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-line3 {
+    top: 215px;
+    width: 1366px;  
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line2 {
+    top: 155px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line1 {
+    top: 90px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line1-1 {
+    top: 142px;
+    left: 125px;
+    width: 285px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-text007 {
+    top: 45px;
+    left: 285px;
+    color: rgba(255, 255, 255, 1);
+    width: 910px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text009 {
+    top: 175px;
+    left: 290px;
+    color: rgba(255, 255, 255, 1);
+    width: 273px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text011 {
+    top: 240px;
+    left: 265px;
+    color: rgba(255, 255, 255, 1);
+    width: 318px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text013 {
+    top: 45px;
+    left: 20px;
+    color: rgba(255, 255, 255, 1);
+    width: 203px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text015 {
+    top: 235px;
+    left: 20px;
+    color: rgba(255, 255, 255, 1);
+    width: 177px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text017 {
+    top: 170px;
+    left: 20px;
+    color: rgba(255, 255, 255, 1);
+    width: 235px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text019 {
+    top: 110px;
+    left: 20px;
+    color: rgba(255, 255, 255, 1);
+    width: 161px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-checklistbox{
+    top: 895px;
+    left: 0px;
+    width: auto;
+    height: auto;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-group85 {
+    top: 902px;
+    left: 49px;
+    width: 1270px;
+    height: 1624px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  
+  .frame-certificateof-accreditation43-group84 {
+    top: 0px;
+    left: 71px;
+    width: 981px;
+    height: 29px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-text025 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Extra Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text027 {
+    left: 825px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    width: 245px;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text029 {
+    top: 34px;
+    left: -14px;
+    color: rgb(0, 0, 0);
+    width: 535px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.2em;
+  }
+  .frame-certificateof-accreditation43-text029-1 {
+    top: 135px;
+    color: rgb(0, 0, 0);
+    width: 535px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    
+  }
+  .frame-certificateof-accreditation43-text034 {
+    top: 255px;
+    left: 970px;
+    color: rgba(0, 0, 0, 1);
+    width: 208px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text035 {
+    top: 340px;
+    left: 985px;
+    color: rgba(0, 0, 0, 1);
+    width: 208px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text036 {
+    top: 100px;
+    left: 860px;
+    color: rgba(0, 0, 0, 1);
+    width: 310px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+  .frame-certificateof-accreditation43-text047 {
+    top: 625px;
+    left: 20px;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    width: 556px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text048 {
+    top: 670px;
+    left: 20px;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    width: 556px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text049 {
+    top: 730px;
+    left: 20px;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    width: 556px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text050 {
+    top: 790px;
+    left: 20px;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    width: 556px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text057 {
+    top: 860px;
+    left: 20px;
+    color: rgba(0, 0, 0, 1);
+    width: 560px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -3.2em;
+  }
+  .frame-certificateof-accreditation43-linevall{
+    top: 750px;
+    left: -10px;
+    width: 1430px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-linevall-1{
+    top: 750px;
+    left: -763px;
+    width: 1430px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-linevall-2{
+    top: 750px;
+    left: 601px;
+    width: 1430px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line4 {
+    top: 200px;
+    left: -50px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line5 {
+    top: 330px;
+    left: -50px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line6 {
+    top: 370px;
+    left: -50px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line7 {
+    top: 425px;
+    left: -50px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line08 {
+    top: 660px;
+    left: -50px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line09 {
+    top: 725px;
+    left: -50px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line09-1 {
+    top: 785px;
+    left: -50px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line11 {
+    top: 503px;
+    left: -50px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line10 {
+    top: 600px;
+    left: -50px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line12 {
+    top: 875px;
+    left: -50px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line13 {
+    top: 1190px;
+    left: -50px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line15 {
+    top: 1360px;
+    left: -50px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+
+.frame-certificateof-accreditation43-line16 {
+  top: 1465px;
+  left: -50px;
+  width: 1366px;
+  height: 1px;
+  position: absolute;
+}
+  .frame-certificateof-accreditation43-text059 {
+    top: 340px;
+    left: 20px;
+    color: rgb(0, 0, 0);
+    width: 534px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.2em;
+  }
+  .frame-certificateof-accreditation43-text060 {
+    top: 380px;
+    color: rgb(0, 0, 0);
+    width: 515px;
+    left: 25px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text061 {
+    top: 440px;
+    color: rgb(0, 0, 0);
+    width: 515px;
+    left: 25px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+
+  .frame-certificateof-accreditation43-text066 {
+    top: 390px;
+    left: 985px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text067 {
+    top: 450px;
+    left: 940px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text068 {
+    top: 630px;
+    left: 985px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text069 {
+    top: 685px;
+    left: 985px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text069-1 {
+    top: 745px;
+    left: 985px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text069-2 {
+    top: 820px;
+    left: 985px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text070 {
+    top: 520px;
+    left: 25px;
+    color: rgb(0, 0, 0);
+    width: 505px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text071 {
+    top: 542px;
+    left: 985px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text073 {
+    top: 1035px;
+    left: 865px;
+    width: 320px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text074 {
+    top: 985px;
+    left: 20px;
+    color: rgba(0, 0, 0, 1);
+    width: 560px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.2em;
+  }
+  .frame-certificateof-accreditation43-text075 {
+    top: 1070px;
+    left: 20px;
+    color: rgba(0, 0, 0, 1);
+    width: 560px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.2em;
+  }
+  
+  .frame-certificateof-accreditation43-text079 {
+    top: 1275px;
+    left: 985px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text081 {
+    top: 1210px;
+    left: 8px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text083 {
+    top: 1255px;
+    left: 20px;
+    color: rgb(0, 0, 0);
+    width: 558px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text084 {
+    top: 1310px;
+    left: 20px;
+    color: rgb(0, 0, 0);
+    width: 558px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text089 {
+    top: 1380px;
+    left: 35px;
+    color: rgb(0, 0, 0);
+    width: 558px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -2.2em;
+  }
+  .frame-certificateof-accreditation43-text090 {
+    top: 1400px;
+    left:915px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-group88 {
+    top: 2500px;
+    left: 0px;
+    width: 1366px;
+    height: 1622px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-group86 {
+    left: 0px;
+    width: 1366px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-rectangle27 {
+    top: -50px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-text092 {
+    top: -35px;
+    left: 615px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text094 {
+    top: -20px;
+    left: 85px;
+    color: rgba(255, 255, 255, 1);
+    width: 180px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text096 {
+    top: -35px;
+    left: 1110px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text098 {
+    top: -35px;
+    left: 845px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text100 {
+    top: -20px;
+    left: 345px;
+    color: rgba(255, 255, 255, 1);
+    width: 245px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text101 {
+    top: 45px;
+    left: 10px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-group44 {
+    top: 112px;
+    left: 34px;
+    width: 269px;
+    height: 277px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-text102 {
+    color: rgba(0, 0, 0, 1);
+    width: 240px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text103 {
+    left: 40px;
+    position: absolute;
+    font-weight: 400;
+  }
+  .frame-certificateof-accreditation43-linevall-3 {
+    top: 720px;
+    left: -687px;
+    width: 1376px;
+    height: 2px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-linevall-4 {
+    top: 720px;
+    left: 677px;
+    width: 1376px;
+    height: 2px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line26 {
+    top: 746px;
+    left: -340px;
+    width: 1326px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line28 {
+    top: 746px;
+    left: -77px;
+    width: 1326px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line29 {
+    top: 746px;
+    left: 140px;
+    width: 1326px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line30 {
+    top: 746px;
+    left: 390px;
+    width: 1326px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line25{
+    top: 82px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line27 {
+    top: 390px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line31 {
+    top: 550px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line32 {
+    top: 690px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line34 {
+    top: 995px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line35 {
+    top: 1090px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line36 {
+    top: 1290px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line33 {
+    top: 845px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-text113 {
+    top: 110px;
+    left: 355px;
+    color: rgba(0, 0, 0, 1);
+    width: 225px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text114 {
+    top: 220px;
+    left: 355px;
+    color: rgba(0, 0, 0, 1);
+    width: 225px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text115 {
+    top: 295px;
+    left: 355px;
+    color: rgba(0, 0, 0, 1);
+    width: 215px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text124 {
+    top: 137px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text126 {
+    top: 471px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text128 {
+    top: 610px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text130 {
+    top: 770px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text132 {
+    top: 920px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text134 {
+    top: 1030px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text136 {
+    top: 1180px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text138 {
+    top: 1330px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text140 {
+    top: 220px;
+    left: 630px;
+    color: rgba(0, 0, 0, 1);
+    width: 115px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text141 {
+    top: 310px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 115px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text142 {
+    top: 137px;
+    left: 870px;
+    color: rgba(0, 0, 0, 1);
+    width: 95px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text144 {
+    top: 230px;
+    left: 870px;
+    color: rgba(0, 0, 0, 1);
+    width: 92px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text145 {
+    top: 310px;
+    left: 870px;
+    color: rgba(0, 0, 0, 1);
+    width: 92px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text146 {
+    top: 471px;
+    left: 885px;
+    color: rgba(0, 0, 0, 1);
+    width: 95px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text148 {
+    top: 920px;
+    left: 870px;
+    color: rgba(0, 0, 0, 1);
+    width: 95px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text150 {
+    top: 1030px;
+    left: 870px;
+    color: rgba(0, 0, 0, 1);
+    width: 92px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text152 {
+    top: 1180px;
+    left: 870px;
+    color: rgba(0, 0, 0, 1);
+    width: 92px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text154 {
+    top: 1330px;
+    left: 875px;
+    color: rgba(0, 0, 0, 1);
+    width: 84px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text156 {
+    top: 610px;
+    left: 885px;
+    color: rgba(0, 0, 0, 1);
+    width: 65px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text158 {
+    top: 144px;
+    left: 1125px;
+    color: rgba(0, 0, 0, 1);
+    width: 177px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text159 {
+    top: 310px;
+    left: 1125px;
+    color: rgba(0, 0, 0, 1);
+    width: 177px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text160 {
+    top: 440px;
+    left: 1125px;
+    color: rgba(0, 0, 0, 1);
+    width: 177px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text162 {
+    top: 215px;
+    left: 1070px;
+    color: rgba(0, 0, 0, 1);
+    width: 265px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text164 {
+    top: 410px;
+    left: 35px;
+    color: rgba(0, 0, 0, 1);
+    width: 278px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text165 {
+    left: 70px;
+    position: absolute;
+    font-weight: 400;
+  }
+
+  .frame-certificateof-accreditation43-text177 {
+    top: 890px;
+    left: 35px;
+    color: rgba(0, 0, 0, 1);
+    width: 260px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text178 {
+    top: 430px;
+    left: 335px;
+    color: rgba(0, 0, 0, 1);
+    width: 241px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-certificateof-accreditation43-text179 {
+    top: 576px;
+    left: 335px;
+    color: rgba(0, 0, 0, 1);
+    width: 241px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-certificateof-accreditation43-text181 {
+    top: 600px;
+    left: 1110px;
+    color: rgba(0, 0, 0, 1);
+    width: 198px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text188 {
+    top: 710px;
+    left: 335px;
+    color: rgba(0, 0, 0, 1);
+    width: 197px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-certificateof-accreditation43-text190 {
+    top: 770px;
+    left: 870px;
+    color: rgba(0, 0, 0, 1);
+    width: 90px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text192 {
+    top: 770px;
+    left: 1110px;
+    color: rgba(0, 0, 0, 1);
+    width: 192px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text197 {
+    top: 840px;
+    left: 335px;
+    color: rgba(0, 0, 0, 1);
+    width: 194px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-certificateof-accreditation43-text199 {
+    top: 920px;
+    left: 1150px;
+    color: rgba(0, 0, 0, 1);
+    width: 117px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text201 {
+    top: 1030px;
+    left: 335px;
+    color: rgba(0, 0, 0, 1);
+    width: 247px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text203 {
+    top: 1030px;
+    left: 1175px;
+    color: rgba(0, 0, 0, 1);
+    width: 69px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text205 {
+    top: 1205px;
+    left: 40px;
+    color: rgba(0, 0, 0, 1);
+    width: 288px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text206 {
+    top: -90px;
+    left: 90px;
+    color: rgba(0, 0, 0, 1);
+    width: 80px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text207 {
+    top: 1150px;
+    left: 35px;
+    color: rgba(0, 0, 0, 1);
+    width: 260px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text208 {
+    top: 1335px;
+    left: 35px;
+    color: rgba(0, 0, 0, 1);
+    width: 260px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text212 {
+    top: 1100px;
+    left: 327px;
+    color: rgba(0, 0, 0, 1);
+    width: 214px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-certificateof-accreditation43-text214 {
+    top: 1325px;
+    left: 355px;
+    color: rgba(0, 0, 0, 1);
+    width: 240px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text216 {
+    top: 1170px;
+    left: 1080px;
+    color: rgba(0, 0, 0, 1);
+    width: 250px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text221 {
+    top: 1325px;
+    left: 1080px;
+    color: rgba(0, 0, 0, 1);
+    width: 250px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-group87 {
+    top: 1410px;
+    left: 0px;
+    width: 1364.0029296875px;
+    height: 83px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-rectangle29 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-text226 {
+    top: 29px;
+    left: 23.96489143371582px;
+    color: rgba(255, 255, 255, 1);
+    width: 275px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text228 {
+    top: 30px;
+    left: 670px;
+    color: rgba(255, 255, 255, 1);
+    width: 776px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+
+  .frame-certificateof-accreditation43-group88-1 {
+    top: 4070px;
+    left: 0px;
+    width: 1366px;
+    height: 1270px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-group86-1 {
+    left: 0px;
+    width: 1366px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-rectangle27-1 {
+    top: -50px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-text092-1 {
+    top: -35px;
+    left: 615px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text094-1 {
+    top: -20px;
+    left: 85px;
+    color: rgba(255, 255, 255, 1);
+    width: 180px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text096-1 {
+    top: -35px;
+    left: 1110px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text098-1 {
+    top: -35px;
+    left: 845px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text100-1 {
+    top: -20px;
+    left: 345px;
+    color: rgba(255, 255, 255, 1);
+    width: 245px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text101-1 {
+    top: 45px;
+    left: 10px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-group44 {
+    top: 112px;
+    left: 34px;
+    width: 269px;
+    height: 277px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-text102 {
+    color: rgba(0, 0, 0, 1);
+    width: 240px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text103-1 {
+    left: 40px;
+    position: absolute;
+    font-weight: 400;
+  }
+  .frame-certificateof-accreditation43-linevall-3-1 {
+    top: 608px;
+    left: -574px;
+    width: 1151px;
+    height: 2px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line26-1 {
+    top: 633px;
+    left: -235px;
+    width: 1102px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line28-1 {
+    top: 633px;
+    left: 35px;
+    width: 1102px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line29-1 {
+    top: 633px;
+    left: 250px;
+    width: 1102px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line30-1 {
+    top: 633px;
+    left: 500px;
+    width: 1102px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line25-1{
+    top: 82px;
+    width: 1365px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line27-1 {
+    top: 390px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line31-1 {
+    top: 550px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line32-1 {
+    top: 690px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line34-1 {
+    top: 995px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line33-1 {
+    top: 770px;
+    width: 1364px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-linevall-4-1 {
+    top: 608px;
+    left: 790px;
+    width: 1151px;
+    height: 2px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-text113-1 {
+    top: 110px;
+    left: 355px;
+    color: rgba(0, 0, 0, 1);
+    width: 225px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text114-1 {
+    top: 220px;
+    left: 355px;
+    color: rgba(0, 0, 0, 1);
+    width: 225px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43--1 {
+    top: 137px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text124-1 {
+    top: 137px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text126-1{
+    top: 471px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text128-1 {
+    top: 615px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text130-1 {
+    top: 720px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text136-1 {
+    top: 880px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text138-1 {
+    top: 1060px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text140-1 {
+    top: 220px;
+    left: 630px;
+    color: rgba(0, 0, 0, 1);
+    width: 115px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text142-1 {
+    top: 137px;
+    left: 870px;
+    color: rgba(0, 0, 0, 1);
+    width: 95px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text144-1 {
+    top: 230px;
+    left: 870px;
+    color: rgba(0, 0, 0, 1);
+    width: 92px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text146-1 {
+    top: 471px;
+    left: 885px;
+    color: rgba(0, 0, 0, 1);
+    width: 95px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text152-1 {
+    top: 880px;
+    left: 870px;
+    color: rgba(0, 0, 0, 1);
+    width: 92px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text154-1 {
+    top: 1060px;
+    left: 875px;
+    color: rgba(0, 0, 0, 1);
+    width: 84px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text156-1 {
+    top: 615px;
+    left: 885px;
+    color: rgba(0, 0, 0, 1);
+    width: 90px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text158-1{
+    top: 144px;
+    left: 1125px;
+    color: rgba(0, 0, 0, 1);
+    width: 177px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text160-1 {
+    top: 470px;
+    left: 1125px;
+    color: rgba(0, 0, 0, 1);
+    width: 177px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text162-1 {
+    top: 215px;
+    left: 1070px;
+    color: rgba(0, 0, 0, 1);
+    width: 265px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text164-1 {
+    top: 410px;
+    left: 35px;
+    color: rgba(0, 0, 0, 1);
+    width: 240px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text165-1 {
+    left: 70px;
+    position: absolute;
+    font-weight: 400;
+  }
+
+  .frame-certificateof-accreditation43-text178-1 {
+    top: 420px;
+    left: 335px;
+    color: rgba(0, 0, 0, 1);
+    width: 190px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-certificateof-accreditation43-text179-1 {
+    top: 555px;
+    left: 335px;
+    color: rgba(0, 0, 0, 1);
+    width: 205px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-certificateof-accreditation43-text181-1 {
+    top: 615px;
+    left: 1110px;
+    color: rgba(0, 0, 0, 1);
+    width: 198px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text188-1 {
+    top: 720px;
+    left: 340px;
+    color: rgba(0, 0, 0, 1);
+    width: 290px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+
+  }
+  .frame-certificateof-accreditation43-text190-1 {
+    top: 720px;
+    left: 870px;
+    color: rgba(0, 0, 0, 1);
+    width: 90px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text192-1 {
+    top: 720px;
+    left: 1110px;
+    color: rgba(0, 0, 0, 1);
+    width: 192px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text205-1 {
+    top: 900px;
+    left: 40px;
+    color: rgba(0, 0, 0, 1);
+    width: 288px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text206-1 {
+    top: -90px;
+    left: 90px;
+    color: rgba(0, 0, 0, 1);
+    width: 80px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text207-1 {
+    top: 855px;
+    left: 35px;
+    color: rgba(0, 0, 0, 1);
+    width: 260px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text208-1 {
+    top: 1020px;
+    left: 40px;
+    color: rgba(0, 0, 0, 1);
+    width: 235px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text212-1 {
+    top: 800px;
+    left: 327px;
+    color: rgba(0, 0, 0, 1);
+    width: 214px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-certificateof-accreditation43-text214-1 {
+    top: 1060px;
+    left: 355px;
+    color: rgba(0, 0, 0, 1);
+    width: 240px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-certificateof-accreditation43-text216-1 {
+    top: 870px;
+    left: 1080px;
+    color: rgba(0, 0, 0, 1);
+    width: 250px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text221-1 {
+    top: 1050px;
+    left: 1080px;
+    color: rgba(0, 0, 0, 1);
+    width: 250px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-group87-1 {
+    top: 1185px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-rectangle29-1 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-text226-1 {
+    top: 29px;
+    left: 23.96489143371582px;
+    color: rgba(255, 255, 255, 1);
+    width: 275px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text228-1 {
+    top: 30px;
+    left: 670px;
+    color: rgba(255, 255, 255, 1);
+    width: 776px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+
+
+  .frame-certificateof-accreditation43-group41 {
+    top: 5390px;
+    left: 78px;
+    width: 1196px;
+    height: 709px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-rectangle32 {
+    top: 55px;
+    left: 2px;
+    width: 1193px;
+    height: 123px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-text230 {
+    left: 8px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text232 {
+    top: 103px;
+    left: 86px;
+    color: rgba(255, 250, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text234 {
+    top: 72px;
+    left: 506px;
+    color: rgba(255, 250, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text236 {
+    top: 134px;
+    left: 377px;
+    color: rgba(255, 250, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text238 {
+    top: 133px;
+    left: 610px;
+    color: rgba(255, 250, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text240 {
+    top: 72px;
+    left: 974px;
+    color: rgba(255, 250, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-line93 {
+    top: 115px;
+    left: 294px;
+    width: 901px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line94 {
+    top: 178px;
+    left: 0px;
+    width: 1195px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line101 {
+    top: 495px;
+    left: 2px;
+    width: 1193px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line101-1 {
+    top: 235px;
+    left: 2px;
+    width: 1193px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line101-2 {
+    top: 290px;
+    left: 2px;
+    width: 1193px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line101-3 {
+    top: 350px;
+    left: 2px;
+    width: 1193px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line101-4 {
+    top: 395px;
+    left: 2px;
+    width: 1193px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line101-5 {
+    top: 445px;
+    left: 2px;
+    width: 1193px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line102 {
+    top: 604px;
+    left: 2px;
+    width: 1193px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line103 {
+    top: 709px;
+    left: 1px;
+    width: 1193px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-line96 {
+    top: 275px;
+    left: 640px;
+    width: 440px;
+    height: 1px;
+    position: absolute;
+    transform:rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line100 {
+    top: 382px;
+    left: -326px;
+    width: 655px;
+    height: 1px;
+    position: absolute;
+    transform:rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line97 {
+    top: 275px;
+    left: 75px;
+    width: 440px;
+    height: 1px;
+    position: absolute;
+    transform:rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-line98 {
+    top: 305px;
+    left: 360px;
+    width: 380px;
+    height: 1px;
+    position: absolute;
+    transform:rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-text242 {
+    top: 535px;
+    left: 78px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text244 {
+    top: 134px;
+    left: 968px;
+    color: rgba(255, 250, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text246 {
+    top: 206px;
+    left: 44px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text248 {
+    top: 198px;
+    left: 387px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text250 {
+    top: 201px;
+    left: 655px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text252 {
+    top: 196px;
+    left: 988px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text254 {
+    top: 258px;
+    left: 44px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text256 {
+    top: 255px;
+    left: 387px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text258 {
+    top: 359px;
+    left: 387px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text260 {
+    top: 414px;
+    left: 387px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text262 {
+    top: 307px;
+    left: 387px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text264 {
+    top: 258px;
+    left: 654px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text266 {
+    top: 258px;
+    left: 981px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text268 {
+    top: 310px;
+    left: 44px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text270 {
+    top: 315px;
+    left: 654px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text272 {
+    top: 362px;
+    left: 653px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text274 {
+    top: 310px;
+    left: 983px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text276 {
+    top: 357px;
+    left: 983px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text278 {
+    top: 362px;
+    left: 44px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text280 {
+    top: 409px;
+    left: 45px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text282 {
+    top: 412px;
+    left: 653px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text284 {
+    top: 409px;
+    left: 983px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text286 {
+    top: 456px;
+    left: 44px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text288 {
+    top: 453px;
+    left: 387px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text290 {
+    top: 459px;
+    left: 653px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text292 {
+    top: 459px;
+    left: 988px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text294 {
+    top: 620px;
+    left: 44px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text295 {
+    font-weight: 700;
+  }
+  .frame-certificateof-accreditation43-line99 {
+    top: 382px;
+    left: 867px;
+    width: 655px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-certificateof-accreditation43-group81 {
+    top: 135px;
+    left: 100px;
+    width: 1199px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-rectangle28 {
+    top: 30px;
+    left: 895px;
+    width: 265px;
+    height: 3px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-tools {
+    top: 7px;
+    left: 0px;
+    width: 65px;
+    height: 62px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-text303 {
+    left: 85px;
+    color: rgba(0, 0, 0, 1);
+    width: 843px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-footer {
+    top: 6140px;
+    left: 0px;
+    width: 1366px;
+    height: 536px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-screenshot1removebgpreview1 {
+    top: 87px;
+    left: 354px;
+    width: 716px;
+    height: 270px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-rectangle8 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 536px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-ellipse11 {
+    top: 294px;
+    left: 1049px;
+    width: 317px;
+    height: 242px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-text305 {
+    top: 146px;
+    left: 125px;
+    color: rgba(27, 21, 21, 1);
+    width: 282px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Extra Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text306 {
+    font-weight: 700;
+  }
+  .frame-certificateof-accreditation43-text314 {
+    top: 268px;
+    left: 128px;
+    color: rgba(29, 23, 23, 1);
+    width: 246px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text315 {
+    font-weight: 700;
+  }
+  .frame-certificateof-accreditation43-text325 {
+    top: 283px;
+    left: 1049px;
+    color: rgba(29, 23, 23, 1);
+    width: 190px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text326 {
+    font-weight: 700;
+  }
+  .frame-certificateof-accreditation43-text327 {
+    font-weight: 700;
+  }
+  .frame-certificateof-accreditation43-text331 {
+    font-weight: 700;
+  }
+  .frame-certificateof-accreditation43-text332 {
+    font-weight: 700;
+  }
+  .frame-certificateof-accreditation43-text336 {
+    font-weight: 700;
+  }
+  .frame-certificateof-accreditation43-text337 {
+    text-decoration: NONE;
+  }
+  .frame-certificateof-accreditation43-text339 {
+    top: 146px;
+    left: 1049px;
+    color: rgba(23, 19, 19, 1);
+    width: 235px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-text340 {
+    font-weight: 700;
+  }
+  .frame-certificateof-accreditation43-header {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 95px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-certificateof-accreditation43-group149 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 95px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 61, 129, 1);
+  }
+  .frame-certificateof-accreditation43-rectangle {
+    top: 0px;
+    width: 1363px;
+    height: 95px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-logo {
+    top: 0px;
+    left: 1035px;
+    width: 291px;
+    height: 95px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-group52button {
+    top: 9px;
+    left: 368.1913757324219px;
+    width: 181.60116577148438px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 61, 129, 0.10000000149011612);
+  }
+  .frame-certificateof-accreditation43-text350 {
+    top: 21px;
+    left: 85.81151580810547px;
+    color: rgba(255, 255, 255, 1);
+    width: 86px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Semi Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-home-page {
+    top: 0px;
+    left: 0px;
+    width: 82px;
+    height: 75px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-group521button {
+    top: 8px;
+    left: 816.2074584960938px;
+    width: 181.60116577148438px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    flex-shrink: 1;
+    background-color: rgba(38, 61, 129, 0.10000000149011612);   
+  }
+  .frame-certificateof-accreditation43-text352 {
+    top: 21px;
+    left: 85.81147003173828px;
+    color: rgba(255, 255, 255, 1);
+    width: 86px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Semi Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-certificateof-accreditation43-inquiry {
+    top: 0px;
+    left: 0px;
+    width: 82px;
+    height: 75px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-group522button {
+    top: 9px;
+    left: 572.7421264648438px;
+    width: 220.5157012939453px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    flex-shrink: 1;
+    background-color: rgba(38, 61, 129, 0.10000000149011612);
+  }
+  .frame-certificateof-accreditation43-text354 {
+    top: 21px;
+    left: 85.8115005493164px;
+    color: rgba(255, 255, 255, 1);
+    width: 135px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Semi Bold;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+  .frame-certificateof-accreditation43-service {
+    top: 0px;
+    left: 0px;
+    width: 82px;
+    height: 75px;
+    position: absolute;
+  }
+  .frame-certificateof-accreditation43-group52button:hover{
+    background-color: transparent;
+    transform: translateY(-3px);
+    transition: all .3s;
+  }
+  .frame-certificateof-accreditation43-group521button:hover{
+    background-color: transparent;
+    transform: translateY(-3px);
+    transition: all .3s;
+  }
+  .frame-certificateof-accreditation43-group522button:hover{
+    background-color: transparent;
+    transform: translateY(-3px);
+    transition: all .3s;
+  }
+
+  @media screen and (max-width: 1366px) {
+    .frame-certificateof-accreditation43-frame-certificateof-accreditation43 {
+    left: 0px;
+    }
+
+  }

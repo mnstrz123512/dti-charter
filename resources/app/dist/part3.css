@@ -1,0 +1,3855 @@
+* {
+	margin: 0;
+	padding: 0;
+  box-sizing:content-box;
+}
+body{
+  animation: transitionIn 1s;
+}
+@keyframes transitionIn{
+from{
+  opacity: 0;
+  transform: rotateX(-5deg);
+}
+to{
+  opacity: 1;
+  transform: rotateX(0);
+}
+}
+.frame-registrationof-business-name9-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .frame-registrationof-business-name9-container span{
+   font-family: sans-serif;
+  }
+
+  .frame-registrationof-business-name9-frame-registrationof-business-name9 {
+    width: 100%;
+    height: 9484px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+    left:79px;
+  }
+  .frame-registrationof-business-name9-checklistbox{
+    top: 875px;
+    left: 0px;
+    width: auto;
+    height: auto;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-group110 {
+    top: 882px;
+    left: 51px;
+    width: 1276px;
+    height: 1484px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text {
+    top: 76px;
+    left: 4px;
+    color: rgba(0, 0, 0, 1);
+    width: 718px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group47 {
+    top: 119px;
+    left: 35px;
+    width: 560px;
+    height: 68px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text009 {
+    color: rgba(0, 0, 0, 1);
+    width: 560px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text010 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .frame-registrationof-business-name9-text011 {
+    top: 42px;
+    left: 152px;
+    color: rgba(38, 61, 129, 1);
+    width: 218px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text012 {
+    color: rgba(38, 61, 129, 1);
+  }
+  .frame-registrationof-business-name9-group109 {
+    top: 0px;
+    left: 63px;
+    width: 1099px;
+    height: 29px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text013 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text015 {
+    left: 870px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    width: 250px;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text017 {
+    top: 283px;
+    left: 830px;
+    color: rgba(0, 0, 0, 1);
+    width: 433px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text022 {
+    top: 906px;
+    left: 885px;
+    color: rgba(0, 0, 0, 1);
+    width: 311px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text024 {
+    top: 615px;
+    left: 885px;
+    color: rgba(0, 0, 0, 1);
+    width: 312px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text026 {
+    top: 727px;
+    left: 900px;
+    color: rgba(0, 0, 0, 1);
+    width: 289px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-linevall{
+    top: 780px;
+    left: 10px;
+    width: 1491px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-5{
+    top: 780px;
+    left: -796px;
+    width: 1491px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-6{
+    top: 780px;
+    left: 569px;
+    width: 1491px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line8 {
+    top: 829px;
+    left: -51px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line64 {
+    top: 1037px;
+    left: -51px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line15 {
+    top: 1222px;
+    left: -51px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line9 {
+    top: 431px;
+    left: -51px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line13 {
+    top: 664px;
+    left: -51px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line14 {
+    top: 596px;
+    left: -51px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line10 {
+    top: 336px;
+    left: -51px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line11 {
+    top: 259px;
+    left: -51px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line15-1{
+    top: 1420px;
+    left: -51px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text028 {
+    top: 373px;
+    left: 31px;
+    color: rgb(0, 0, 0);
+    width: 703px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text029 {
+    top: 290px;
+    left: 30px;
+    color: rgb(0, 0, 0);
+    width: 703px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text030 {
+    top: 207px;
+    left: 30px;
+    color: rgb(0, 0, 0);
+    width: 703px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text031 {
+    top: 885px;
+    left: 58.842041015625px;
+    color: rgb(0, 0, 0);
+    width: 620px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text032 {
+    top: 848px;
+    left: 31px;
+    color: rgb(0, 0, 0);
+    width: 652px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text033 {
+    top: 694px;
+    left: 55.317138671875px;
+    color: rgba(0, 0, 0, 1);
+    width: 630px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text035 {
+    top: 612px;
+    left: 53.3741455078125px;
+    color: rgba(0, 0, 0, 1);
+    width: 633px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text037 {
+    top: 491px;
+    left: 51.43115234375px;
+    color: rgba(0, 0, 0, 1);
+    width: 636px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text039 {
+    top: 456px;
+    left: 32px;
+    color: rgb(0, 0, 0);
+    width: 683px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text040 {
+    top: 1056px;
+    left: 36px;
+    color: rgb(0, 0, 0);
+    width: 653px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text041 {
+    font-weight: 700;
+  }
+  .frame-registrationof-business-name9-text042 {
+    font-weight: 300;
+  }
+  .frame-registrationof-business-name9-text043 {
+    font-style: normal;
+    font-weight: 400;
+  }
+  .frame-registrationof-business-name9-text044 {
+    top: 1458px;
+    left: 31px;
+    color: rgb(0, 0, 0);
+    width: 420px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text045 {
+    top: 1425px;
+    left: 36px;
+    color: rgba(0, 0, 0, 1);
+    width: 703px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text047 {
+    top: 1239px;
+    left: 36px;
+    color: rgba(0, 0, 0, 1);
+    width: 653px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text049 {
+    top: 1331px;
+    left: 37px;
+    color: rgba(0, 0, 0, 1);
+    width: 703px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text051 {
+    top: 1391px;
+    left: 31px;
+    color: rgb(0, 0, 0);
+    width: 370px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text052 {
+    top: 1364px;
+    left: 31px;
+    color: rgb(0, 0, 0);
+    width: 320px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group141 {
+    top: 2407px;
+    left: 0px;
+    width: 1367px;
+    height: 1165px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-group111 {
+    top: 0px;
+    width: 1366px;
+    height: 83px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-rectangle27 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text055 {
+    top: 20px;
+    left: 625px;
+    width: 150px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text057 {
+    top: 30px;
+    left: 50px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text059 {
+    top: 20px;
+    left: 1110px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    width: 150px;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text061 {
+    top: 20px;
+    left: 850px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text063 {
+    top: 30px;
+    left: 315px;
+    color: rgba(255, 255, 255, 1);
+    width: 220px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text065 {
+    top: 86px;
+    left: 13px;
+    color: rgb(0, 0, 0);
+    width: 216px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.2em;
+  }
+  .frame-registrationof-business-name9-text066 {
+    top: 364px;
+    left: 25px;
+    color: rgb(0, 0, 0);
+    width: 216px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text067 {
+    top: 84px;
+    left: 280px;
+    color: rgba(0, 0, 0, 1);
+    width: 257px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.6em;
+  }
+  .frame-registrationof-business-name9-text069 {
+    top: 948px;
+    left: 288px;
+    color: rgba(0, 0, 0, 1);
+    width: 227px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-registrationof-business-name9-text071 {
+    top: 327px;
+    left: 288px;
+    color: rgba(0, 0, 0, 1);
+    width: 227px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-registrationof-business-name9-text073 {
+    top: 984px;
+    left: 25px;
+    color: rgb(0, 0, 0);
+    width: 216px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text074 {
+    top: 348px;
+    left: 585px;
+    color: rgb(0, 0, 0);
+    width: 211px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text109 {
+    top: 119px;
+    left: 840px;
+    color: rgba(0, 0, 0, 1);
+    width: 195px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text112 {
+    top: 119px;
+    left: 1120px;
+    color: rgba(0, 0, 0, 1);
+    width: 151px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text114 {
+    top: 984px;
+    left: 1120px;
+    color: rgba(0, 0, 0, 1);
+    width: 151px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text116 {
+    top: 346px;
+    left: 1120px;
+    color: rgb(0, 0, 0);
+    width: 151px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-linevall-7 {
+    top: 622px;
+    left: -540px;
+    width: 1081px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-8 {
+    top: 622px;
+    left: 825px;
+    width: 1081px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line12 {
+    top: 622px;
+    left: -280px;
+    width: 1081px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line141 {
+    top: 622px;
+    left: 265px;
+    width: 1080px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line17 {
+    top: 622px;
+    left: 510px;
+    width: 1080px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line151 {
+    top: 622px;
+    left: 40px;
+    width: 1080px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line16 {
+    top: 328px;
+    left: -1px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line18 {
+    top: 948px;
+    left: -1px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line19 {
+    top: 1162px;
+    left: -1px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-group105 {
+    top: 128px;
+    left: 120px;
+    width: 1226px;
+    height: 56px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-signing--document {
+    top: 0px;
+    left: 0px;
+    width: 56px;
+    height: 56px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-rectangle23 {
+    top: 35px;
+    left: 570px;
+    width: 605px;
+    height: 3px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text123 {
+    top: 17px;
+    left: 60px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Extra Bold;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group107 {
+    top: 210px;
+    left: 124px;
+    width: 1166px;
+    height: 331px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text125 {
+    color: rgba(0, 0, 0, 1);
+    width: 1166px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: 28px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group108 {
+    top: 571px;
+    left: 0px;
+    width: 1366px;
+    height: 285px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-group35 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 285px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(21, 69, 163, 1);
+  }
+  .frame-registrationof-business-name9-text136 {
+    top: 35px;
+    left: 20px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text141 {
+    top: 90px;
+    left: 20px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text143 {
+    top: 160px;
+    left: 20px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text145 {
+    top: 230px;
+    left: 20px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text147 {
+    top: 40px;
+    left: 340px;
+    color: rgba(255, 255, 255, 1);
+    width: 440px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text152 {
+    top: 165px;
+    left: 340px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text154 {
+    top: 235px;
+    left: 345px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text156 {
+    top: 95px;
+    left: 340px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-line1-1 {
+    top: 142px;
+    left: 160px;
+    width: 285px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line1 {
+    top: 75px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line2 {
+    top: 140px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line3 {
+    top: 210px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-group115 {
+    top: 4402px;
+    width: 1366px;
+    height: 542px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-line121 {
+    top: 310px;
+    left: 20px;
+    width: 459px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-11 {
+    top: 310px;
+    left: -229px;
+    width: 459px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-12 {
+    top: 310px;
+    left: 1136px;
+    width: 459px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line142 {
+    top: 310px;
+    left: 575px;
+    width: 458px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line171 {
+    top: 310px;
+    left: 830px;
+    width: 458px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line152 {
+    top: 310px;
+    left: 340px;
+    width: 458px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line161 {
+    top: 328px; 
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line181 {
+    top: 424px; 
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line191 {
+    top: 540px; 
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text158 {
+    top: 19px;
+    left: 649px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text163 {
+    top: 27px;
+    left: 55px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text165 {
+    top: 19px;
+    left: 1163px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text170 {
+    top: 19px;
+    left: 910px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text175 {
+    top: 13px;
+    left: 369px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text180 {
+    top: 87px;
+    left: 10px;
+    color: rgb(0, 0, 0);
+    width: 216px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.1em;
+  }
+  .frame-registrationof-business-name9-text181 {
+    top: 364px;
+    left: 25px;
+    color: rgb(0, 0, 0);
+    width: 120px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text182 {
+    top: 90px;
+    left: 275px;
+    color: rgba(0, 0, 0, 1);
+    width: 217px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-registrationof-business-name9-text184 {
+    top: 329px;
+    left: 275px;
+    color: rgba(0, 0, 0, 1);
+    width: 217px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-registrationof-business-name9-text186 {
+    top: 442px;
+    left: 270px;
+    color: rgba(0, 0, 0, 1);
+    width: 257px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.6em;
+  }
+  .frame-registrationof-business-name9-text188 {
+    top: 442px;
+    left: 25px;
+    color: rgb(0, 0, 0);
+    width: 135px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-registrationof-business-name9-text189 {
+    top: 360px;
+    left: 585px;
+    color: rgba(0, 0, 0, 1);
+    width: 211px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text191 {
+    top: 119px;
+    left: 830px;
+    color: rgba(0, 0, 0, 1);
+    width: 213px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text192 {
+    font-weight: 400;
+  }
+  .frame-registrationof-business-name9-text194 {
+    top: 146px;
+    left: 1125px;
+    color: rgba(0, 0, 0, 1);
+    width: 170px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text196 {
+    top: 442px;
+    left: 1125px;
+    color: rgba(0, 0, 0, 1);
+    width: 170px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group114 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-rectangle271 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text198 {
+    top: 20px;
+    left: 615px;
+    width: 150px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text200 {
+    top: 30px;
+    left: 40px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text202 {
+    top: 20px;
+    left: 1125px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text204 {
+    top: 20px;
+    left: 855px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text206 {
+    top: 30px;
+    left: 300px;
+    color: rgba(255, 255, 255, 1);
+    width: 220px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-checklistbox2{
+    top: 5010px;
+    left: 0px;
+    width: auto;
+    height: auto;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-group117 {
+    top: 5021px;
+    left: 55px;
+    width: 1245px;
+    height: 523px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text208 {
+    top: 51px;
+    color: rgba(0, 0, 0, 1);
+    width: 694px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text215 {
+    top: 133px;
+    left: 33px;
+    color: rgba(0, 0, 0, 1);
+    width: 650px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight:700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group116 {
+    top: 0px;
+    left: 63px;
+    width: 1065px;
+    height: 29px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text217 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Extra Bold;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text219 {
+    left: 835px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    width: 260px;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text221 {
+    top: 269px;
+    left: 900px;
+    color: rgba(0, 0, 0, 1);
+    width: 240px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-linevall-2{
+    top: 284px;
+    left: 495px;
+    width: 508px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-13{
+    top: 284px;
+    left: -308px;
+    width: 508px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-14{
+    top: 284px;
+    left: 1056px;
+    width: 508px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line28 {
+    top: 430px;
+    left: -57px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line30 {
+    top: 340px;
+    left: -57px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line31 {
+    top: 236px;
+    left: -57px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text226 {
+    top: 378px;
+    left: 33px;
+    color: rgba(0, 0, 0, 1);
+    width: 703px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text228 {
+    top: 273px;
+    left: 33px;
+    color: rgba(0, 0, 0, 1);
+    width: 652px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text230 {
+    top: 446px;
+    left: 31px;
+    color: rgba(0, 0, 0, 1);
+    width: 703px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text232 {
+    top: 473px;
+    left: 27px;
+    color: rgb(0, 0, 0);
+    width: 399px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group119 {
+    top: 5560px;
+    left: 0px;
+    width: 1367px;
+    height: 874px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-line32 {
+    top: 475px;
+    left: -140px;
+    width: 789px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-15 {
+    top: 475px;
+    left: -394px;
+    width: 789px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-16 {
+    top: 475px;
+    left: 971px;
+    width: 789px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line33 {
+    top: 475px;
+    left: 170px;
+    width: 788px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line34 {
+    top: 475px;
+    left: 660px;
+    width: 788px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line35 {
+    top: 475px;
+    left: 410px;
+    width: 788px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line36 {
+    top: 328px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line37 {
+    top: 659px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line38 {
+    top: 870px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text236 {
+    top: 19px;
+    left: 649px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text241 {
+    top: 27px;
+    left: 55px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text243 {
+    top: 19px;
+    left: 1163px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text248 {
+    top: 19px;
+    left: 910px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text253 {
+    top: 13px;
+    left: 369px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text258 {
+    top: 88px;
+    left: 8px;
+    color: rgb(0, 0, 0);
+    width: 216px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.1em;
+  }
+  .frame-registrationof-business-name9-text259 {
+    top: 364px;
+    left: 50px;
+    color: rgb(0, 0, 0);
+    width: 200px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    text-indent: -1.5em;
+  }
+  .frame-registrationof-business-name9-text260 {
+    top: 88px;
+    left: 267px;
+    color: rgba(0, 0, 0, 1);
+    width: 257px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.5em;
+  }
+  .frame-registrationof-business-name9-text262 {
+    top: 326px;
+    left: 275px;
+    color: rgba(0, 0, 0, 1);
+    width: 217px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-registrationof-business-name9-text264 {
+    top: 645px;
+    left: 264px;
+    color: rgba(0, 0, 0, 1);
+    width: 257px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.5em;
+  }
+  .frame-registrationof-business-name9-text266 {
+    top: 642px;
+    left: 9px;
+    color: rgb(0, 0, 0);
+    width: 173px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1em;
+  }
+  .frame-registrationof-business-name9-text267 {
+    top: 348px;
+    left: 580px;
+    color: rgba(0, 0, 0, 1);
+    width: 211px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text280 {
+    top: 119px;
+    left: 825px;
+    color: rgba(0, 0, 0, 1);
+    width: 213px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text281 {
+    font-weight: 400;
+  }
+  .frame-registrationof-business-name9-text283 {
+    top: 146px;
+    left: 1120px;
+    color: rgba(0, 0, 0, 1);
+    width: 170px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text285 {
+    top: 359px;
+    left: 1120px;
+    color: rgba(0, 0, 0, 1);
+    width: 151px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text287 {
+    top: 724px;
+    left: 1120px;
+    color: rgba(0, 0, 0, 1);
+    width: 170px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group118 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-rectangle30 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text289 {
+    top: 20px;
+    left: 615px;
+    width: 150px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text291 {
+    top: 30px;
+    left: 40px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text293 {
+    top: 20px;
+    left: 1125px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text295 {
+    top: 20px;
+    left: 850px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text297 {
+    top: 30px;
+    left: 295px;
+    color: rgba(255, 255, 255, 1);
+    width: 220px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-checklistbox3{
+    top: 6490px;
+    left: 0px;
+    width: auto;
+    height: auto;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-group120 {
+    top: 6497px;
+    left: 56px;
+    width: 1244px;
+    height: 523px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text299 {
+    left: 63px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Extra Bold;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text301 {
+    top: 51px;
+    color: rgba(0, 0, 0, 1);
+    width: 694px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text306 {
+    top: 103px;
+    left: 31px;
+    color: rgb(0, 0, 0);
+    width: 500px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: normal;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text307 {
+    left: 905px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Extra Bold;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text309 {
+    top: 171px;
+    left: 850px;
+    color: rgba(0, 0, 0, 1);
+    width: 350px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text314 {
+    top: 361px;
+    left: 845px;
+    color: rgba(0, 0, 0, 1);
+    width: 361px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-linevall-3{
+    top: 286px;
+    left: 500px;
+    width: 504px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-17{
+    top: 286px;
+    left: -307px;
+    width: 504px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-18{
+    top: 286px;
+    left: 1057px;
+    width: 504px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line39 {
+    top: 430px;
+    left: -58px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line49 {
+    top: 327px;
+    left: -58px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line40 {
+    top: 234px;
+    left: -58px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line41 {
+    top: 130px;
+    left: -58px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text316 {
+    top: 276px;
+    left: 26px;
+    color: rgb(0, 0, 0);
+    width: 350px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text317 {
+    top: 317px;
+    left: 1px;
+    color: rgba(0, 0, 0, 1);
+    width: 658px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.1em;
+  }
+  .frame-registrationof-business-name9-text319 {
+    top: 167px;
+    left: 26px;
+    color: rgb(0, 0, 0);
+    width: 658px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text320 {
+    top: 446px;
+    left: 33px;
+    color: rgba(0, 0, 0, 1);
+    width: 480px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-frame6 {
+    top: 473px;
+    left: 29px;
+    width: 415px;
+    height: 50px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text322 {
+    color: rgb(0, 0, 0);
+    width: 415px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group122 {
+    top: 7036px;
+    left: 1px;
+    width: 1367px;
+    height: 665px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-line42 {
+    top: 370px;
+    left: -25px;
+    width: 581px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-19 {
+    top: 370px;
+    left: -291px;
+    width: 581px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-20 {
+    top: 370px;
+    left: 1074px;
+    width: 581px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line43 {
+    top: 370px;
+    left: 520px;
+    width: 580px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line44 {
+    top: 370px;
+    left: 770px;
+    width: 580px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line45 {
+    top: 370px;
+    left: 285px;
+    width: 580px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line46 {
+    top: 320px;
+    left: -1px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line47 {
+    top: 470px;
+    left: -1px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line48 {
+    top: 660px;
+    left: -1px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text326 {
+    top: 19px;
+    left: 649px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text331 {
+    top: 27px;
+    left: 55px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text333 {
+    top: 19px;
+    left: 1163px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text338 {
+    top: 19px;
+    left: 910px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text343 {
+    top: 13px;
+    left: 369px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text348 {
+    top: 85px;
+    left: 13px;
+    color: rgb(0, 0, 0);
+    width: 216px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.1em;
+  }
+  .frame-registrationof-business-name9-text349 {
+    top: 364px;
+    left: 25px;
+    color: rgb(0, 0, 0);
+    width: 216px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text350 {
+    top: 81px;
+    left: 288px;
+    color: rgba(0, 0, 0, 1);
+    width: 222px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-registrationof-business-name9-text352 {
+    top: 326px;
+    left: 276px;
+    color: rgba(0, 0, 0, 1);
+    width: 233px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.1em;
+  }
+  .frame-registrationof-business-name9-text354 {
+    top: 475px;
+    left: 282px;
+    color: rgba(0, 0, 0, 1);
+    width: 241px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.5em;
+  }
+  .frame-registrationof-business-name9-text356 {
+    top: 475px;
+    left: 9px;
+    color: rgb(0, 0, 0);
+    width: 185px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.1em;
+  }
+  .frame-registrationof-business-name9-text357 {
+    top: 348px;
+    left: 595px;
+    color: rgba(0, 0, 0, 1);
+    width: 211px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text359 {
+    top: 119px;
+    left: 835px;
+    color: rgba(0, 0, 0, 1);
+    width: 213px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text360 {
+    font-weight: 400;
+  }
+  .frame-registrationof-business-name9-text362 {
+    top: 146px;
+    left: 1120px;
+    color: rgba(0, 0, 0, 1);
+    width: 170px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text364 {
+    top: 359px;
+    left: 1120px;
+    color: rgba(0, 0, 0, 1);
+    width: 151px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text366 {
+    top: 527px;
+    left: 1120px;
+    color: rgba(0, 0, 0, 1);
+    width: 170px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group121 {
+    top: 0px;
+    left: -1px;
+    width: 1366px;
+    height: 83px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-rectangle32 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text368 {
+    top: 20px;
+    left: 620px;
+    width: 150px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text370 {
+    top: 30px;
+    left: 59px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text372 {
+    top: 20px;
+    left: 1120px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text374 {
+    top: 20px;
+    left: 865px;
+    width: 150px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text376 {
+    top: 30px;
+    left: 317px;
+    color: rgba(255, 255, 255, 1);
+    width: 220px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-checklistbox4{
+    top: 7770px;
+    left: 0px;
+    width: auto;
+    height: auto;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-group123 {
+    top: 7782px;
+    left: 57px;
+    width: 1244px;
+    height: 425px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text378 {
+    left: 63px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Extra Bold;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text380 {
+    top: 51px;
+    color: rgba(0, 0, 0, 1);
+    width: 694px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text382 {
+    top: 87px;
+    left: 29px;
+    color: rgba(0, 0, 0, 1);
+    width: 671px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text384 {
+    left: 923px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Extra Bold;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text386 {
+    top: 165px;
+    left: 900px;
+    color: rgba(0, 0, 0, 1);
+    width: 240px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-linevall-4{
+    top: 235px;
+    left: 550px;
+    width: 410px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-21{
+    top: 235px;
+    left: -261px;
+    width: 410px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-22{
+    top: 235px;
+    left: 1103px;
+    width: 410px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line51 {
+    top: 327px;
+    left: -59px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line52 {
+    top: 234px;
+    left: -59px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line53 {
+    top: 130px;
+    left: -59px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text391 {
+    top: 276px;
+    left: 26px;
+    color: rgb(0, 0, 0);
+    width: 350px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text392 {
+    top: 167px;
+    left: 26px;
+    color: rgb(0, 0, 0);
+    width: 657px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text393 {
+    top: 348px;
+    left: 31px;
+    color: rgba(0, 0, 0, 1);
+    width: 703px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text395 {
+    top: 375px;
+    left: 27px;
+    color: rgb(0, 0, 0);
+    width: 703px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+  .frame-registrationof-business-name9-group125 {
+    top: 8223px;
+    left: 0px;
+    width: 1366.0008544921875px;
+    height: 665px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-line54 {
+    top: 370px;
+    left: -40px;
+    width: 581px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-23 {
+    top: 370px;
+    left: -290px;
+    width: 581px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-24 {
+    top: 370px;
+    left: 1075px;
+    width: 581px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line55 {
+    top: 370px;
+    left: 522px;
+    width: 580px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line56 {
+    top: 370px;
+    left: 765px;
+    width: 580px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line57 {
+    top: 370px;
+    left: 292px;
+    width: 580px;
+    height: 1px;
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line58 {
+    top: 328px;
+    left: 1px;
+    width: 581px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line61 {
+    top: 458px;
+    left: 1px;
+    width: 581px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line62 {
+    top: 328px;
+    left: 812px;
+    width: 553px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line63 {
+    top: 458px;
+    left: 812px;
+    width: 553px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line60 {
+    top: 660px;
+    left: 0px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text399 {
+    top: 19px;
+    left: 649px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text404 {
+    top: 27px;
+    left: 55px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text406 {
+    top: 19px;
+    left: 1163px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text411 {
+    top: 19px;
+    left: 910px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text416 {
+    top: 13px;
+    left: 369px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text421 {
+    top: 87px;
+    left: 12px;
+    color: rgb(0, 0, 0);
+    width: 171px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.1em;
+  }
+  .frame-registrationof-business-name9-text422 {
+    top: 364px;
+    left: 25px;
+    color: rgb(0, 0, 0);
+    width: 216px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text423 {
+    top: 87px;
+    left: 288px;
+    color: rgba(0, 0, 0, 1);
+    width: 217px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -2em;
+  }
+  .frame-registrationof-business-name9-text425 {
+    top: 328px;
+    left: 274px;
+    color: rgba(0, 0, 0, 1);
+    width: 235px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.1em;
+  }
+  .frame-registrationof-business-name9-text427 {
+    top: 469px;
+    left: 277px;
+    color: rgba(0, 0, 0, 1);
+    width: 257px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.5em;
+  }
+  .frame-registrationof-business-name9-text429 {
+    top: 473px;
+    left: 5px;
+    color: rgb(0, 0, 0);
+    width: 178px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.1em;
+  }
+  .frame-registrationof-business-name9-text430 {
+    top: 121px;
+    left: 606px;
+    color: rgba(0, 0, 0, 1);
+    width: 211px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text465 {
+    top: 119px;
+    left: 835px;
+    color: rgba(0, 0, 0, 1);
+    width: 213px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text466 {
+    font-weight: 400;
+  }
+  .frame-registrationof-business-name9-text468 {
+    top: 146px;
+    left: 1120px;
+    color: rgba(0, 0, 0, 1);
+    width: 170px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text470 {
+    top: 359px;
+    left: 1120px;
+    color: rgba(0, 0, 0, 1);
+    width: 151px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text472 {
+    top: 525px;
+    left: 1120px;
+    color: rgba(0, 0, 0, 1);
+    width: 170px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group124 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-rectangle34 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 83px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text474 {
+    top: 20px;
+    left: 625px;
+    width: 150px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text476 {
+    top: 30px;
+    left: 50px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text478 {
+    top: 20px;
+    left: 1120px;
+    width: 150px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text483 {
+    top: 20px;
+    left: 860px;
+    width: 150px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text488 {
+    top: 30px;
+    left: 315px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  } .frame-registrationof-business-name9-checklistbox1{
+    top: 3630px;
+    left: 0px;
+    width: auto;
+    height: auto;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-group113 {
+    top: 3639px;
+    left: 57px;
+    width: 1249px;
+    height: 752px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text493 {
+    top: 54px;
+    left: 2px;
+    color: rgba(0, 0, 0, 1);
+    width: 718px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text498 {
+    top: 134px;
+    left: 25px;
+    color: rgba(0, 0, 0, 1);
+    width: 703px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text500 {
+    top: 205px;
+    left: 840px;
+    color: rgba(0, 0, 0, 1);
+    width: 350px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text505 {
+    top: 568px;
+    left: 840px;
+    color: rgba(0, 0, 0, 1);
+    width: 350px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-linevall-1{
+    top: 398px;
+    left: 380px;
+    width: 730px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-9{
+    top: 398px;
+    left: -421px;
+    width: 730px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-linevall-10{
+    top: 398px;
+    left: 943px;
+    width: 730px;
+    height: 1px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(90deg);
+  }
+  .frame-registrationof-business-name9-line91 {
+    top: 516px;
+    left: -59px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line26 {
+    top: 659px;
+    left: -60px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line101 {
+    top: 374px;
+    left: -60px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-line111 {
+    top: 285px;
+    left: -59px;
+    width: 1366px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text510 {
+    top: 373px;
+    left: 10px;
+    color: rgb(0, 0, 0);
+    width: 633px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.2em;
+  }
+  .frame-registrationof-business-name9-text511 {
+    top: 322px;
+    left: 25px;
+    color: rgb(0, 0, 0);
+    width: 380px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text512 {
+    top: 211px;
+    left: 25px;
+    color: rgb(0, 0, 0);
+    width: 658px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-frame4 {
+    top: 542px;
+    left: 26px;
+    width: 657px;
+    height: 88px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text513 {
+    color: rgb(0, 0, 0);
+    top: -23px;
+    left: -15px;
+    width: 630px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    margin: 2em;
+    text-indent: -1.2em;
+  }
+  .frame-registrationof-business-name9-frame5 {
+    top: 675px;
+    left: 30px;
+    width: 703px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text514 {
+    color: rgba(0, 0, 0, 1);
+    width: 703px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group38 {
+    top: 702px;
+    left: 26px;
+    width: 703px;
+    height: 50px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-frame61 {
+    top: 0px;
+    left: 0px;
+    width: 703px;
+    height: 50px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text516 {
+    color: rgb(0, 0, 0);
+    width: 703px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-group112 {
+    top: 0px;
+    left: 33px;
+    width: 1094px;
+    height: 35px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-text520 {
+    left: 860px;
+    width: 245px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text522 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Extra Bold;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-footer {
+    top: 8948px;
+    left: 0px;
+    width: 1366px;
+    height: 540px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-screenshot1removebgpreview1 {
+    top: 87px;
+    left: 354px;
+    width: 716px;
+    height: 270px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-rectangle8 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 536px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-ellipse11 {
+    top: 298px;
+    left: 1049px;
+    width: 317px;
+    height: 242px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text524 {
+    top: 146px;
+    left: 125px;
+    color: rgba(27, 21, 21, 1);
+    width: 282px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Extra Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text525 {
+    font-weight: 700;
+  }
+  .frame-registrationof-business-name9-text533 {
+    top: 268px;
+    left: 128px;
+    color: rgba(29, 23, 23, 1);
+    width: 246px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text534 {
+    font-weight: 700;
+  }
+  .frame-registrationof-business-name9-text544 {
+    top: 283px;
+    left: 1049px;
+    color: rgba(29, 23, 23, 1);
+    width: 190px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text545 {
+    font-weight: 700;
+  }
+  .frame-registrationof-business-name9-text546 {
+    font-weight: 700;
+  }
+  .frame-registrationof-business-name9-text550 {
+    font-weight: 700;
+  }
+  .frame-registrationof-business-name9-text551 {
+    font-weight: 700;
+  }
+  .frame-registrationof-business-name9-text555 {
+    font-weight: 700;
+  }
+  .frame-registrationof-business-name9-text556 {
+    text-decoration: NONE;
+  }
+  .frame-registrationof-business-name9-text558 {
+    top: 146px;
+    left: 1049px;
+    color: rgba(23, 19, 19, 1);
+    width: 235px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-text559 {
+    font-weight: 700;
+  }
+  .frame-registrationof-business-name9-header {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 95px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .frame-registrationof-business-name9-group149 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 95px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 61, 129, 1);
+  }
+  .frame-registrationof-business-name9-rectangle {
+    top: 0px;
+    width: 1363px;
+    height: 95px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-logo {
+    top: 0px;
+    left: 1035px;
+    width: 291px;
+    height: 95px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-group52button {
+    top: 9px;
+    left: 368.1913757324219px;
+    width: 181.60116577148438px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 61, 129, 0.10000000149011612);
+  }
+  .frame-registrationof-business-name9-rectangle36 {
+    top: 0px;
+    left: 4.989017486572266px;
+    width: 177px;
+    height: 78px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-text569 {
+    top: 21px;
+    left: 85.81151580810547px;
+    color: rgba(255, 255, 255, 1);
+    width: 86px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-home-page {
+    top: 0px;
+    left: 0px;
+    width: 82px;
+    height: 75px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-group521button {
+    top: 8px;
+    left: 816.2074584960938px;
+    width: 181.60116577148438px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 61, 129, 0.10000000149011612);
+  }
+  .frame-registrationof-business-name9-text571 {
+    top: 21px;
+    left: 85.81147003173828px;
+    color: rgba(255, 255, 255, 1);
+    width: 86px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-rectangle361 {
+    top: 0px;
+    left: 4.988974094390869px;
+    width: 177px;
+    height: 78px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-inquiry {
+    top: 0px;
+    left: 0px;
+    width: 82px;
+    height: 75px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-group522button {
+    top: 9px;
+    left: 572.7421264648438px;
+    width: 181.60116577148438px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 61, 129, 0.10000000149011612);
+  }
+  .frame-registrationof-business-name9-text573 {
+    top: 21px;
+    left: 85.8115005493164px;
+    color: rgba(255, 255, 255, 1);
+    width: 135px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    text-align: justify;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame-registrationof-business-name9-rectangle362 {
+    top: 0px;
+    left: 5.2578125px;
+    width: 215px;
+    height: 78px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-service {
+    top: 2px;
+    left: 0px;
+    width: 82px;
+    height: 75px;
+    position: absolute;
+  }
+  .frame-registrationof-business-name9-group52button:hover{
+    background-color: transparent;
+    transform: translateY(-3px);
+    transition: all .3s;
+  }
+  .frame-registrationof-business-name9-group521button:hover{
+    background-color: transparent;
+    transform: translateY(-3px);
+    transition: all .3s;
+  }
+  .frame-registrationof-business-name9-group522button:hover{
+    background-color: transparent;
+    transform: translateY(-3px);
+    transition: all .3s;
+  }
+  
+
+  @media screen and (max-width: 1366px) {
+    .frame-registrationof-business-name9-frame-registrationof-business-name9 {
+    left: 0px;
+    }
+
+  }
